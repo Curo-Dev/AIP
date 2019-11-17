@@ -6,6 +6,8 @@ choco install nodejs-lts -y
 
 choco install vscode -y
 
+choco install atom -y
+
 choco install postman -y
 
 choco install git -y
