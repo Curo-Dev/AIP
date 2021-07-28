@@ -4,8 +4,4 @@ wget -O %systemdrive%//Users//%username%//Desktop//WhaleSetup.exe http://update.
 
 choco install nodejs-lts -y
 
-choco install vscode -y
-
-choco install postman -y
-
-choco install git -y
+choco install github-desktop
